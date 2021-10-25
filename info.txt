@@ -1,0 +1,12 @@
+//keybindings.json
+//settings.json
+
+~/.config/Code/User в Linux (в моем случае, производная от Ubuntu)
+C:\Users\username\AppData\Roaming\Code\User в Windows 10
+~/Library/Application Support/Code/User/в Mac OS X
+
+//extensions
+//argv.json
+
+~/.vscode/extensions в Linux и Mac OS X
+C:\Users\username\.vscode\extensions в Windows 10 (например, по существу, в том же месте)
