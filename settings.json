@@ -1,0 +1,14 @@
+{
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.wordWrap": "on",
+    "prettier.trailingComma": "all",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.configPath": "/home/fort/.prettierrc.json",
+    "editor.formatOnSave": true,
+    "explorer.confirmDelete": false,
+    "workbench.editor.untitled.hint": "hidden",
+    "explorer.confirmDragAndDrop": false
+}
